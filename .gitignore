@@ -1,0 +1,48 @@
+# ignored for Eclipse
+.metadata
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+.settings/
+.loadpath
+.classpath
+*.launch
+.buildpath
+.target
+.project
+
+# ignored for JetBrains
+.idea/
+out/
+.idea_modules/
+/**/*.iml
+
+# ignored for MacOS
+/**/.DS_Store
+._*
+
+
+# ignored for Microsoft Office
+~$*.doc*
+~$*.xls*
+*.xlk
+~$*.ppt*
+*.~vsd*
+
+# ignored for SVN
+.svn/
+
+# ignored for logging
+*.log
+logs/
+log/
+
+# ignored for Maven
+target/
+*/target/
+
+# ignored for Gitee
+*.lfsconfig
+
